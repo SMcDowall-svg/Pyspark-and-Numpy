@@ -1,4 +1,4 @@
-# Pyspark-and-Numpy
+## Pyspark-and-Numpy
 This is a simple data exploration project using Pyspark and Numpy.
 The notebook shows how to switch between a Numpy dataframe to a Pyspark dataframe. 
 
