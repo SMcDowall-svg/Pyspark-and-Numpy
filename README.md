@@ -1,6 +1,6 @@
 ## Pyspark-and-Numpy
 This is a simple data exploration project using Pyspark and Numpy.
-The notebook shows how to switch between a Numpy dataframe to a Pyspark dataframe. 
+The Jupyter notebook shows how to switch between a Numpy dataframe to a Pyspark dataframe. 
 
 I have also included a geo visualization technique using longitude and latitude data. 
 
